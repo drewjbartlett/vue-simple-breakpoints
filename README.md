@@ -3,6 +3,7 @@
 ## Installation and usage
 
 See official documentation [here](https://github.com/drewjbartlett/simple-breakpoints).
+
     $ npm install vue-simple-breakpoints
 
 ```javascript
