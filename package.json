@@ -2,10 +2,25 @@
   "name": "vue-simple-breakpoints",
   "version": "1.0.0",
   "description": "A wrapper for simple-breakpoints",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "babel --presets=es2015 -d dist src",
+    "prepublish": "npm run compile"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Drew J Bartlett",
+  "license": "ISC",
+  "keywords": [
+    "vue",
+    "breakpoints",
+    "js",
+    "mobile"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0"
+  },
+  "bugs": {
+    "url": "https://github.com/drewjbartlett/vue-simple-breakpoints/issues"
+  },
+  "homepage": "https://github.com/drewjbartlett/vue-simple-breakpoints#readme"
 }
