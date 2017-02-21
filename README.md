@@ -8,9 +8,9 @@ See official documentation [here](https://github.com/drewjbartlett/simple-breakp
 
 ```javascript
     import Vue from 'vue'
-    import SimpleBreakpoints from 'simple-breakpoints'
+    import VueSimpleBreakpoints from 'vue-simple-breakpoints'
 
-    Vue.use(SimpleBreakpoints)
+    Vue.use(VueSimpleBreakpoints)
 
     new Vue({
         el: '#app',
@@ -41,9 +41,9 @@ See official documentation [here](https://github.com/drewjbartlett/simple-breakp
 
 ```javascript
     import Vue from 'vue'
-    import SimpleBreakpoints from 'simple-breakpoints'
+    import VueSimpleBreakpoints from 'vue-simple-breakpoints'
 
-    Vue.use(SimpleBreakpoints, { mobile: 320, tablet: 640, small_desktop: 1000, large_desktop: 1200 })
+    Vue.use(VueSimpleBreakpoints, { mobile: 320, tablet: 640, small_desktop: 1000, large_desktop: 1200 })
 
     new Vue({
         el: '#app',
