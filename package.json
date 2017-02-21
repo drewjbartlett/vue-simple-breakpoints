@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/drewjbartlett/vue-simple-breakpoints/issues"
   },
-  "homepage": "https://github.com/drewjbartlett/vue-simple-breakpoints#readme"
+  "homepage": "https://github.com/drewjbartlett/vue-simple-breakpoints#readme",
+  "dependencies": {
+    "simple-breakpoints": "^1.1.0"
+  }
 }
