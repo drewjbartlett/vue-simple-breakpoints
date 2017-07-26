@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/drewjbartlett/vue-simple-breakpoints#readme",
   "dependencies": {
-    "simple-breakpoints": "^1.1.0"
+    "simple-breakpoints": "^1.1.1"
   }
 }
