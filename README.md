@@ -1,5 +1,8 @@
 # Simple Breakpoints for Vue.js
 
+[![npm](https://img.shields.io/npm/v/vue-simple-breakpoints.svg)](https://www.npmjs.com/package/vue-simple-breakpoints)
+[![npm](https://img.shields.io/npm/dt/vue-simple-breakpoints.svg)](https://www.npmjs.com/package/vue-simple-breakpoints)
+
 ## Installation and usage
 
 See official documentation [here](https://github.com/drewjbartlett/simple-breakpoints).
